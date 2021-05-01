@@ -1,0 +1,20 @@
+@import "bootstrap/scss/bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+body {
+  font-family: "Roboto Slab";
+  font-weight: 400;
+}
+
+.nav-style {
+  padding-top: 10px;
+  background-color: #f6f6f6;
+  height: 50px;
+}
+
+.article-item {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
